@@ -1,0 +1,5 @@
+train (t-q7lum7cuko1i683h6q7hxyoni) {
+  utterance ("[g:GetContent] tell me a pickup line about (magic)[v:SearchTerm]")
+  plan (Y2BmkC3ISaxML8ovzUvRK8hMzi4tyMnMS9Vzzs8rSc0rYVDALu2eWkJARXBqYlFyRkhqUS4DEwMjEDMASUYGEIDyAQ==)
+  last-modified (1558213718840)
+}
