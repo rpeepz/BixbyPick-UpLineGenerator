@@ -1,5 +1,5 @@
 capsule {
-  id (example.fact)
+  id (pickup.generator)
   version (1.0.0)
   format(3)
   runtime-flags {
