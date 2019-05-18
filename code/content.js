@@ -58,5 +58,6 @@ module.exports = [
 {tags: ["clean","vegetable"], text: "If you were a vegetable you'd be a cutecumber."},
 {tags: ["clean","dictionary"], text: "You're like a dictionary... you add meaning to my life."},
 {tags: ["dirty","dinner","breakfast"], text: "I'll cook you dinner, if you cook me breakfast"},
+  {tags: ["naughty","mirror","porn","best"], text: "You wanna go back to my place and watch porn on my new flat screen mirror?"},
   // END PASTE FROM SPREADSHEET HERE
 ]
