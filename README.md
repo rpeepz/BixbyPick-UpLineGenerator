@@ -1,38 +1,26 @@
 <p align="Center">
   <img src="https://bixbydevelopers.com/dev/docs-assets/resources/dev-guide/bixby_logo_github-11221940070278028369.png">
   <br/>
-  <h1 align="Center">Bixby Facts Sample Capsule</h1>
+  <h1 align="Center">Bixby Pickup line Capsule</h1>
 </p>
 
 ## Overview
 
-Do you have some interesting facts about a hobby or passion to share? Do you have a set of LOL jokes to share? The facts sample capsule is the perfect place to share that content by building a Bixby capsule.
+Do you have some interesting or funny pickup lines to share? Try the pickup line generator capsule! It's the perfect place to find **and** share the content you're looking for by using our Bixby capsule. We hope they're not too offensive or crude, becuase we wouldn't want to offend anyone... but it's all for a laugh and good clean fun
 
 Lots of the basic building blocks of a Bixby capsule are highlighted; This is a great capsule to start learning how to develop for Bixby.
 
 You can easily customize this capsule with your own content without any development! Just use the spreadsheet in the `contentUtility` folder and cut and paste from there into the `content.js` file, update the `capsule.id` and `training` as necessary and you have made this capsule your own!
 
-## How to get started
-
-* Download and install the Bixby Studio IDE from the [Bixby Developer Center](http://bixbydevelopers.com)
-* Download this capsule (zip is the easiest way) from Github. Unzip in your directory of choice
-* Open the Capsule in Bixby Studio
-* Open the simulator and give it a try!
-
-
 ## How to try
-Ask about facts. Try these:
+Ask bixby for a pickup line! Maybe you'll get lucky with:
 
 ```
-Tell me a fact (Bixby says a random fact)
+Tell me a pickup line (Bixby says a random pickup line)
 
-Tell me a fact about dogs (Bixby says a fact about dogs)
-```
-Or ask about jokes. Try these:
-```
-Tell me a joke (Bixby says a random joke (fact)
+Tell me a magical pickup line (Bixby says a pickup line with the tag magic)
 
-Tell me a cat joke (Bixby says a random joke (fact) about cats)
+Tell me a clean pickup line (Bixby says a cheesy pickup line)
 ```
 
 ## How to customize
