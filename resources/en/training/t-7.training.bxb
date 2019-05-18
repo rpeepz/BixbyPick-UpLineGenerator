@@ -1,0 +1,5 @@
+train (t-70jlab2kwki4ew9rjnrz5wma3) {
+  utterance ("[g:GetContent] tell me a pickup line that is (naughty)[v:SearchTerm]")
+  plan (Y2BmkC3ISaxML8ovzUvRK8hMzi4tyMnMS9Vzzs8rSc0rYVDALu2eWkJARXBqYlFyRkhqUS4DEwMjEDMASUYGEIDyAQ==)
+  last-modified (1558221383424)
+}
