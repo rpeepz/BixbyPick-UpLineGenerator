@@ -6,11 +6,11 @@ function findContent (items, searchTerm) {
   for (var i = 0; i < items.length; i++) {
     if (items[i].tags) {
       for (var j = 0; j < items[i].tags.length; j++) {
-        if (strncmp(searchTerm, items[i].tags[j].toLowerCase, 3)) {
+        if (searchTerm == items[i].tags[j].toLowerCase()) {
           matches.push(items[i])
           break
         }
-        if (searchTerm == items[i].tags[j].toLowerCase()) {
+        if (strncmp(searchTerm, items[i].tags[j].toLowerCase, 3)) {
           matches.push(items[i])
           break
         }
