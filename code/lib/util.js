@@ -10,7 +10,7 @@ function findContent (items, searchTerm) {
           matches.push(items[i])
           break
         }
-        if (strncmp(searchTerm, items[i].tags[j].toLowerCase, 3)) {
+        else if (searchTerm.substring(0, 3) == items[i].tags[j].toLowerCase().substring(0,3)) {
           matches.push(items[i])
           break
         }
@@ -18,12 +18,6 @@ function findContent (items, searchTerm) {
     }
   }
   return matches
-}
-
-function strncmp(str1, str2, n) {
-  str1 = str1.substring(0, n);
-  str2 = str2.substring(0, n);
-  return ( ( str1 == str2 ) ? 0 : (( str1 > str2 ) ? 1 : -1 ));
 }
 // Javascript way using filters
 /*exports.findContentJS = findContentJS
